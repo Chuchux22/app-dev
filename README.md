@@ -19,8 +19,8 @@ As the story progresses, Midoriya and his classmates participate in internships,
 
 The author of "My Hero Academia" is Kohei Horikoshi. He is a Japanese manga artist and writer known for creating this popular series. Horikoshi was born on November 20, 1986, in Aichi Prefecture, Japan. "My Hero Academia" has gained immense popularity both in Japan and internationally, earning Horikoshi widespread recognition and acclaim for his storytelling and artwork.
 
-|Characters|Info|
-|----------|----|
+|Characters|
+|----------|
 |Izuku Midoriya (Deku): The protagonist of the series, Izuku is a determined and kind-hearted boy born without a Quirk. He idolizes All Might and inherits the Quirk "One For All" from him, setting him on the path to becoming a hero.|
 Katsuki Bakugo (Kacchan): Izuku's childhood friend turned rival, Katsuki possesses the Quirk "Explosion," which allows him to create powerful blasts from his palms. He is fiercely competitive and driven to become the strongest hero.
 Ochaco Uraraka: A cheerful and optimistic girl with the Quirk "Zero Gravity," Ochaco can make objects float by touching them. She admires Izuku's determination and forms a close friendship with him.
