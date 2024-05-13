@@ -13,8 +13,8 @@ As the story progresses, Midoriya and his classmates participate in internships,
 
 "My Hero Academia" explores themes of heroism, friendship, perseverance, and self-discovery against the backdrop of a society grappling with the responsibilities and consequences of superpowers. The series has garnered widespread acclaim for its compelling characters, dynamic action sequences, and thought-provoking storytelling, making it a beloved and influential part of contemporary manga and anime culture.
 
-# Author 
+# Author:  Kohei Horikoshi
 
-![Hero1!](HERO1.jpg)
+![Hero1!](Hero2.jpg)
 
 The author of "My Hero Academia" is Kohei Horikoshi. He is a Japanese manga artist and writer known for creating this popular series. Horikoshi was born on November 20, 1986, in Aichi Prefecture, Japan. "My Hero Academia" has gained immense popularity both in Japan and internationally, earning Horikoshi widespread recognition and acclaim for his storytelling and artwork.
