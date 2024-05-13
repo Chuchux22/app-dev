@@ -21,7 +21,7 @@ The author of "My Hero Academia" is Kohei Horikoshi. He is a Japanese manga arti
 
 ![h!](HERO4.jpg)
 
-|Characters|
+|Hero Characters|
 |----------|
 |Izuku Midoriya (Deku): The protagonist of the series, Izuku is a determined and kind-hearted boy born without a Quirk. He idolizes All Might and inherits the Quirk "One For All" from him, setting him on the path to becoming a hero.|
 Katsuki Bakugo (Kacchan): Izuku's childhood friend turned rival, Katsuki possesses the Quirk "Explosion," which allows him to create powerful blasts from his palms. He is fiercely competitive and driven to become the strongest hero.
@@ -32,4 +32,16 @@ All Might (Toshinori Yagi): The Symbol of Peace and the world's greatest hero, A
 Eraser Head (Shota Aizawa): The homeroom teacher of Class 1-A at U.A. High School, Eraser Head has the ability to erase other people's Quirks by looking at them. He is strict but cares deeply for his students' development as heroes.
 Tsuyu Asui (Froppy): A laid-back and straightforward student with the Quirk "Frog," Tsuyu has traits similar to those of a frog, including enhanced jumping ability and a prehensile tongue. She is known for her level-headedness and reliability.
 Minoru Mineta (Grape Juice): A perverted and quirky student with the Quirk "Pop Off," Minoru can produce and detach sticky, grape-like balls from his head. Despite his flaws, he occasionally shows moments of bravery and ingenuity.
-Momo Yaoyorozu (Creati): An intelligent and resourceful student with the Quirk "Creation," Momo can create any non-living object as long as she understands its molecular structure. She is known for her strategic thinking and leadership skills.
+Momo Yaoyorozu (Creati): An intelligent and resourceful student with the Quirk "Creation," Momo can create any non-living object as long as she understands its molecular structure. She is known for her strategic thinking and leadership skills.'
+
+![h!](HERO4.jpg)
+
+|Villain Characters|
+|----------|
+Tomura Shigaraki (Tenko Shimura): The leader of the League of Villains, Tomura seeks to destroy the hero society established by All Might. He possesses the Quirk "Decay," which allows him to disintegrate anything he touches with all five fingers. Tomura harbors a deep-seated hatred towards heroes and desires to create chaos.
+All For One (Shigaraki's Mentor): The primary antagonist of the earlier arcs, All For One is Tomura Shigaraki's mentor and the arch-nemesis of All Might. He is one of the most powerful villains in the series and has the ability to steal and distribute Quirks. All For One aims to control society through manipulation and coercion.
+Dabi (Toya Todoroki): A member of the League of Villains, Dabi possesses the Quirk "Cremation," which allows him to generate and manipulate blue flames. He harbors a grudge against Endeavor, Shoto Todoroki's father, and seeks to overthrow the hero society.
+Himiko Toga: A member of the League of Villains with a fascination for blood, Himiko possesses the Quirk "Transform," which enables her to shapeshift into anyone she has consumed blood from. She admires Stain's ideology and enjoys causing chaos and confusion.
+Stain (Hero Killer): A vigilante who gained notoriety for targeting and killing pro heroes whom he deemed unworthy, Stain believes in a purer form of heroism and despises those motivated by fame and fortune. He serves as an ideological antagonist to the hero society and inspires others to reevaluate their motivations.
+Overhaul (Kai Chisaki): The leader of the Shie Hassaikai, Overhaul seeks to eliminate quirks and control society through the use of his Quirk, "Overhaul," which allows him to disassemble and reassemble matter at will. He is ruthless and manipulative, viewing others as tools to achieve his goals.
+Gentle Criminal (Danjuro Tobita): A minor antagonist with a flair for theatrics, Gentle Criminal desires to become a notorious villain and gain recognition for his "crimes." He clashes with Izuku Midoriya and U.A. High School during his attempt to infiltrate the school festival.
