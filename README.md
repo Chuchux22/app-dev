@@ -47,7 +47,7 @@ Overhaul (Kai Chisaki): The leader of the Shie Hassaikai, Overhaul seeks to elim
 Gentle Criminal (Danjuro Tobita): A minor antagonist with a flair for theatrics, Gentle Criminal desires to become a notorious villain and gain recognition for his "crimes." He clashes with Izuku Midoriya and U.A. High School during his attempt to infiltrate the school festival.
 
 # All Season
-##As of my last update, "My Hero Academia" has several seasons, each with multiple episodes. Here's an overview:
+## As of my last update, "My Hero Academia" has several seasons, each with multiple episodes. Here's an overview:
 
 Season 1: This season introduces the main characters, particularly Izuku Midoriya, and follows his journey from being Quirkless to inheriting "One For All" from All Might. It covers the events from Izuku's admission to U.A. High School to the U.A. Sports Festival arc.
 
