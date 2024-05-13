@@ -45,3 +45,18 @@ Himiko Toga: A member of the League of Villains with a fascination for blood, Hi
 Stain (Hero Killer): A vigilante who gained notoriety for targeting and killing pro heroes whom he deemed unworthy, Stain believes in a purer form of heroism and despises those motivated by fame and fortune. He serves as an ideological antagonist to the hero society and inspires others to reevaluate their motivations.
 Overhaul (Kai Chisaki): The leader of the Shie Hassaikai, Overhaul seeks to eliminate quirks and control society through the use of his Quirk, "Overhaul," which allows him to disassemble and reassemble matter at will. He is ruthless and manipulative, viewing others as tools to achieve his goals.
 Gentle Criminal (Danjuro Tobita): A minor antagonist with a flair for theatrics, Gentle Criminal desires to become a notorious villain and gain recognition for his "crimes." He clashes with Izuku Midoriya and U.A. High School during his attempt to infiltrate the school festival.
+
+# All Season
+##As of my last update, "My Hero Academia" has several seasons, each with multiple episodes. Here's an overview:
+
+Season 1: This season introduces the main characters, particularly Izuku Midoriya, and follows his journey from being Quirkless to inheriting "One For All" from All Might. It covers the events from Izuku's admission to U.A. High School to the U.A. Sports Festival arc.
+
+Season 2: Season 2 continues with the U.A. Sports Festival arc and introduces new characters, including members of Class 1-B and the League of Villains. It also covers the Hero Killer Stain arc and the U.A. School Trip arc, where students face real-world villain threats.
+
+Season 3: Season 3 delves deeper into the conflict between heroes and villains, with highlights including the Provisional Hero License Exam arc, the Hideout Raid arc, and the Final Exams arc. The season explores the rise of the League of Villains and the challenges faced by the heroes.
+
+Season 4: Season 4 focuses on the aftermath of the Hideout Raid arc and the emergence of new threats, such as the Shie Hassaikai and the villain Overhaul. It covers the Internship arc, the Remedial Course arc, and the Cultural Festival arc.
+
+Season 5: Season 5 continues to explore the hero society and the challenges faced by the students at U.A. High School. It includes arcs such as the Joint Training arc, where Class 1-A and 1-B engage in combat training, and the Meta Liberation Army arc, which delves into the ideology of villain groups.
+
+Each season consists of multiple episodes, typically ranging from around 12 to 25 episodes, depending on the season. Additionally, "My Hero Academia" has several OVAs (Original Video Animations) and movies that expand on the storyline and characters. As the series continues to release new content, the number of episodes and seasons may increase.
